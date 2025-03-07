@@ -9,6 +9,9 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-debian-kde-plasma/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
