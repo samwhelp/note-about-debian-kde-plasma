@@ -69,6 +69,17 @@
 
 ### Build ISO
 
+> [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/)
+
+
+| Debian / ISO Builder / Kde Plasma | GitHub |
+| ----------------------------- | ------ |
+| [debian-iso-builder-respin-kde-plasma](https://samwhelp.github.io/debian-iso-builder-respin-kde-plasma/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-respin-kde-plasma) |
+| [debian-iso-builder-remix-kde-plasma](https://samwhelp.github.io/debian-iso-builder-remix-kde-plasma/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-remix-kde-plasma) |
+
+
+
+
 > [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/)
 
 
